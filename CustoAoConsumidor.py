@@ -1,0 +1,5 @@
+fab= float(input("Digite o valor de custo de fábrica do veículo: R$"))
+dist= round((fab * 28)/100, 2)
+imp=round((fab * 45)/100, 2)
+cons=round(fab + dist + imp)
+print("O custo ao consumidor é de:  R$", cons)
