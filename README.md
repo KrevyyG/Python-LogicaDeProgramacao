@@ -1,2 +1,2 @@
-# Python_Logica_de_Programacao
+# Python - Lógica de Programação
 Lógica de Programação estudada em Linguagem Python
